@@ -112,7 +112,7 @@ class AnswerIntentHandler(AbstractRequestHandler):
         reprompt = random.choice(language_prompts["ANSWER_REPROMPT"])
         current_question_index = session_attributes["current_question_index"] + 1
         
-        if current_question_index < 5:
+        if current_question_index < 20:
             question = quiz_data[current_question_index]["q"]
             options = quiz_data[current_question_index]["o"]
             correct_answer = quiz_data[current_question_index]["a"]
