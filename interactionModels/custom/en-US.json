@@ -1,0 +1,541 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "popular qoutes quiz",
+      "intents": [
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.RepeatIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.YesIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NoIntent",
+          "samples": []
+        },
+        {
+          "name": "AnswerIntent",
+          "slots": [
+            {
+              "name": "answer",
+              "type": "answer_slot"
+            }
+          ],
+          "samples": [
+            "it\u0027s {answer}",
+            "it is {answer}",
+            "{answer} is the correct answer",
+            "{answer} is the answer",
+            "answer is {answer}",
+            "I choose {answer}",
+            "the correct answer is {answer}",
+            "{answer}",
+            "the answer is {answer}",
+            "my answer is {answer}"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "values": [
+            {
+              "name": {
+                "value": "D",
+                "synonyms": [
+                  "d.",
+                  "d"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "C",
+                "synonyms": [
+                  "c.",
+                  "c"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "B",
+                "synonyms": [
+                  "b.",
+                  "b"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "A",
+                "synonyms": [
+                  "a.",
+                  "a"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "George Carlin"
+              }
+            },
+            {
+              "name": {
+                "value": "J.R.R. Tolkien"
+              }
+            },
+            {
+              "name": {
+                "value": "Mark Twain"
+              }
+            },
+            {
+              "name": {
+                "value": "Ernest Hemingway"
+              }
+            },
+            {
+              "name": {
+                "value": "J.R.R. Tolkien"
+              }
+            },
+            {
+              "name": {
+                "value": "Ernest Hemingway"
+              }
+            },
+            {
+              "name": {
+                "value": "George Bernard Shaw"
+              }
+            },
+            {
+              "name": {
+                "value": "Alexandre Dumas fils"
+              }
+            },
+            {
+              "name": {
+                "value": "George Bernard Shaw"
+              }
+            },
+            {
+              "name": {
+                "value": "Stephenie Meyer"
+              }
+            },
+            {
+              "name": {
+                "value": "Suzanne Collins"
+              }
+            },
+            {
+              "name": {
+                "value": "J.R.R. Tolkien"
+              }
+            },
+            {
+              "name": {
+                "value": "Alexandre Dumas fils"
+              }
+            },
+            {
+              "name": {
+                "value": "Eleanor Roosevelt"
+              }
+            },
+            {
+              "name": {
+                "value": "Albert Einstein"
+              }
+            },
+            {
+              "name": {
+                "value": "Ernest Hemingway"
+              }
+            },
+            {
+              "name": {
+                "value": "Marilyn Monroe"
+              }
+            },
+            {
+              "name": {
+                "value": "Jorge Luis Borges"
+              }
+            },
+            {
+              "name": {
+                "value": "Dr. Seuss"
+              }
+            },
+            {
+              "name": {
+                "value": "Ernest Hemingway"
+              }
+            },
+            {
+              "name": {
+                "value": "Eleanor Roosevelt"
+              }
+            },
+            {
+              "name": {
+                "value": "Martin Luther King Jr"
+              }
+            },
+            {
+              "name": {
+                "value": "J.K. Rowling"
+              }
+            },
+            {
+              "name": {
+                "value": "Marilyn Monroe"
+              }
+            },
+            {
+              "name": {
+                "value": "Martin Luther King Jr"
+              }
+            },
+            {
+              "name": {
+                "value": "Mahatma Gandhi"
+              }
+            },
+            {
+              "name": {
+                "value": "Ernest Hemingway"
+              }
+            },
+            {
+              "name": {
+                "value": "C-S-Lewis"
+              }
+            },
+            {
+              "name": {
+                "value": "Albert Einsteint"
+              }
+            },
+            {
+              "name": {
+                "value": "Jorge Luis Borges"
+              }
+            },
+            {
+              "name": {
+                "value": "Ernest Hemingway"
+              }
+            },
+            {
+              "name": {
+                "value": "Dr. Seuss"
+              }
+            },
+            {
+              "name": {
+                "value": "George Eliot"
+              }
+            },
+            {
+              "name": {
+                "value": "C-S-Lewis"
+              }
+            },
+            {
+              "name": {
+                "value": "George R.R. Martin"
+              }
+            },
+            {
+              "name": {
+                "value": "Martin Luther King Jr"
+              }
+            },
+            {
+              "name": {
+                "value": "Dr. Seuss"
+              }
+            },
+            {
+              "name": {
+                "value": "J.K. Rowling"
+              }
+            },
+            {
+              "name": {
+                "value": "Ernest Hemingway"
+              }
+            },
+            {
+              "name": {
+                "value": "Mahatma Gandhi"
+              }
+            },
+            {
+              "name": {
+                "value": "Albert Einstein"
+              }
+            },
+            {
+              "name": {
+                "value": "Bob Marley"
+              }
+            },
+            {
+              "name": {
+                "value": "J.K. Rowling"
+              }
+            },
+            {
+              "name": {
+                "value": "Jorge Luis Borges"
+              }
+            },
+            {
+              "name": {
+                "value": "Garrison Keillor"
+              }
+            },
+            {
+              "name": {
+                "value": "Mother Teresa"
+              }
+            },
+            {
+              "name": {
+                "value": "Marilyn Monroe"
+              }
+            },
+            {
+              "name": {
+                "value": "Douglas Adams"
+              }
+            },
+            {
+              "name": {
+                "value": "Mother Teresa"
+              }
+            },
+            {
+              "name": {
+                "value": "Jack Dorsey"
+              }
+            },
+            {
+              "name": {
+                "value": "Jeff Bezos"
+              }
+            },
+            {
+              "name": {
+                "value": "Bill Gates"
+              }
+            },
+            {
+              "name": {
+                "value": "Dr Seuss"
+              }
+            },
+            {
+              "name": {
+                "value": "Mark Twain"
+              }
+            },
+            {
+              "name": {
+                "value": "Marilyn Monroe",
+                "synonyms": [
+                  "Monroe"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Ernest Hemingway"
+              }
+            },
+            {
+              "name": {
+                "value": "Albert Einstein",
+                "synonyms": [
+                  "Einstein"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Douglas Adams"
+              }
+            },
+            {
+              "name": {
+                "value": "Mark Twain",
+                "synonyms": [
+                  "Twain"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Allen Saunders"
+              }
+            },
+            {
+              "name": {
+                "value": "Thomas Alva Edison",
+                "synonyms": [
+                  "Edison"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Mother Teresa"
+              }
+            },
+            {
+              "name": {
+                "value": "Mahatma Gandhi",
+                "synonyms": [
+                  "Gandhi"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Marilyn Monroe"
+              }
+            },
+            {
+              "name": {
+                "value": "Albert Einstein",
+                "synonyms": [
+                  "Einstein"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Jack Dorsey"
+              }
+            },
+            {
+              "name": {
+                "value": "Jeff Bezos"
+              }
+            },
+            {
+              "name": {
+                "value": "Bill Gates"
+              }
+            },
+            {
+              "name": {
+                "value": "Ralph Waldo Emerson"
+              }
+            },
+            {
+              "name": {
+                "value": "Mark Twain"
+              }
+            },
+            {
+              "name": {
+                "value": "Friedrich Nietzsche"
+              }
+            },
+            {
+              "name": {
+                "value": "Albert Einstein"
+              }
+            },
+            {
+              "name": {
+                "value": "J.K. Rowling"
+              }
+            },
+            {
+              "name": {
+                "value": "Jane Austen"
+              }
+            },
+            {
+              "name": {
+                "value": "Eleanor Roosevelt"
+              }
+            },
+            {
+              "name": {
+                "value": "Dr Seuss"
+              }
+            },
+            {
+              "name": {
+                "value": "Albert Einstein",
+                "synonyms": [
+                  "Einstein"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Thomas Alva Edison",
+                "synonyms": [
+                  "Edison"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Isaac Newton",
+                "synonyms": [
+                  "Newton"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "Nikola Tesla",
+                "synonyms": [
+                  "Tesla"
+                ]
+              }
+            }
+          ],
+          "name": "answer_slot"
+        }
+      ],
+      "modelConfiguration": {
+        "fallbackIntentSensitivity": {
+          "level": "LOW"
+        }
+      }
+    }
+  },
+  "version": "20"
+}

@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "q": "The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.",
+        "o": ["Albert Einstein","Thomas Alva Edison","Isaac Newton","Nikola Tesla"],
+        "a": "Albert Einstein"
+    },
+    {
+        "id": "2",
+        "q": "It is our choices, Harry, that show what we truly are, far more than our abilities.",
+        "o": ["J.K. Rowling","Jane Austen","Eleanor Roosevelt","Dr Seuss"],
+        "a": "J.K. Rowling"
+    },
+    {
+        "id": "3",
+        "q": "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.",
+        "o": ["Albert Einstein","Friedrich Nietzsche","Mark Twain","Ralph Waldo Emerson"],
+        "a": "Albert Einstein"
+    },
+    {
+        "id": "4",
+        "q": "Try not to become a man of success. Rather become a man of value.?",
+        "o": ["Albert Einstein","Jack Dorsey","Jeff Bezos","Bill Gates"],
+        "a": "Albert Einstein"
+    },
+    {
+        "id": "5",
+        "q": "I have not failed. I've just found 10,000 ways that won't work.?",
+        "o": ["Thomas Alva Edison ","Mother Teresa","Mahatma Gandhi","Marilyn Monroe"],
+        "a": "Thomas Alva Edison "
+    },
+    {
+        "id": "6",
+        "q": "If you can't explain it to a six year old, you don't understand it yourself.",
+        "o": ["Albert Einstein","Douglas Adams","Mark Twain","Allen Saunders"],
+        "a": "Albert Einstein"
+    },
+    {
+        "id": "7",
+        "q": "I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living.",
+        "o": ["Dr Seuss","Mark Twain","Marilyn Monroe","Ernest Hemingway"],
+        "a": "Dr Seuss"
+    },
+    {
+        "id": "8",
+        "q": "If you judge people, you have no time to love them.",
+        "o": ["Mother Teresa","Jack Dorsey","Jeff Bezos","Bill Gates"],
+        "a": "Mother Teresa"
+    },
+    {
+        "id": "9",
+        "q": "Anyone who thinks sitting in church can make you a Christian must also think that sitting in a garage can make you a car.",
+        "o": ["Garrison Keillor","Mother Teresa","Marilyn Monroe","Douglas Adams"],
+        "a": "Garrison Keillor"
+    },
+    {
+        "id": "10",
+        "q": "Logic will get you from A to Z; imagination will get you everywhere.",
+        "o": ["Albert Einstein","Bob Marley","J.K. Rowling","Jorge Luis Borges"],
+        "a": "Albert Einstein"
+    },
+    {
+        "id": "11",
+        "q": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
+        "o": ["Dr. Seuss","J.K. Rowling","Ernest Hemingway","Mahatma Gandhi"],
+        "a": "Mark Zuckerberg"
+    },
+    {
+        "id": "12",
+        "q": "It is never too late to be what you might have been.",
+        "o": ["George Eliot","C-S-Lewis","George R.R. Martin","Martin Luther King Jr"],
+        "a": "George Eliot"
+    },
+    {
+        "id": "13",
+        "q": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+        "o": ["Albert Einstein","Jorge Luis Borges","Ernest Hemingway","Dr. Seuss"],
+        "a": "Albert Einstein"
+    },
+    {
+        "id": "14",
+        "q": "Only in the darkness can you see the stars.",
+        "o": ["Martin Luther King Jr","Mahatma Gandhi","Ernest Hemingway","C-S-Lewis"],
+        "a": "Martin Luther King Jr"
+    },
+    {
+        "id": "15",
+        "q": "Do one thing every day that scares you.",
+        "o": ["Eleanor Roosevelt","Martin Luther King Jr","J.K. Rowling","Marilyn Monroe"],
+        "a": "Eleanor Roosevelt"
+    },
+    {
+        "id": "16",
+        "q": "If you can make a woman laugh, you can make her do anything.",
+        "o": ["Marilyn Monroe","Jorge Luis Borges","Dr. Seuss","Ernest Hemingway"],
+        "a": "Marilyn Monroe"
+    },
+    {
+        "id": "17",
+        "q": "The difference between genius and stupidity is: genius has its limits.",
+        "o": ["Alexandre Dumas fils","Eleanor Roosevelt","Albert Einstein","Ernest Hemingways"],
+        "a": "Alexandre Dumas fils"
+    },
+    {
+        "id": "18",
+        "q": "Life isn't about finding yourself. Life is about creating yourself.",
+        "o": ["George Bernard Shaw","Stephenie Meyer","Suzanne Collins","J.R.R. Tolkien"],
+        "a": "George Bernard Shaw"
+    },
+    {
+        "id": "19",
+        "q": "Not all those who wander are lost.",
+        "o": ["J.R.R. Tolkien","Ernest Hemingway","George Bernard Shaw","Alexandre Dumas fils"],
+        "a": "J.R.R. Tolkieng"
+    },
+    {
+        "id": "20",
+        "q": "The reason I talk to myself is because I'm the only one whose answers I accept.",
+        "o": ["George Carlin","J.R.R. Tolkien","Mark Twain","Ernest Hemingway"],
+        "a": "George Carlin"
+    }
+]
