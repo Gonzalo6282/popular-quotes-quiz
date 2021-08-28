@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "popular qoutes quiz",
+      "invocationName": "popular qoutes",
       "intents": [
         {
           "name": "AMAZON.NavigateHomeIntent",
