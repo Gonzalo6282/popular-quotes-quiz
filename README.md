@@ -1,1 +1,1 @@
-opular quotes quiz Alexa skill to learn about Alexa skills, loggin, json.
+Popular quotes quiz Alexa skill to learn about Alexa skills, loggin, json.
